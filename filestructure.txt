@@ -1,0 +1,10 @@
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- src
+    |-- App.jsx
+    |-- index.css
+    |-- main.jsx
+|-- tailwind.config.js
+|-- vite.config.js
